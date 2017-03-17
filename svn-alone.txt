@@ -1,0 +1,2 @@
+//新建一个独立分支的git文件
+git checkout --orphan svn-alone
